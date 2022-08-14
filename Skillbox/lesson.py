@@ -32,3 +32,5 @@ for j in range(1, n + 1):
     s = print_info(j, s, i2)
 
 print(f'\nОстаток долга: {s:.2f}')
+
+d = ('Выберите пункт доставки')
